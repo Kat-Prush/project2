@@ -270,7 +270,7 @@ li, .list-group {
 /* END LOGIN PAGE */
 
 /* SIGN UP BUTTON */
-/* General Styles for the Button */
+
 .list-group button {
   background-color: #007BFF; /* IMDb blue */
   color: white;
@@ -292,7 +292,7 @@ li, .list-group {
 /* Styles for the Modal Background */
 .modal {
   display: none; /* Hidden by default */
-  position: fixed;
+  position: flex;
   z-index: 1; /* Make sure it's above other content */
   left: 0;
   top: 0;
